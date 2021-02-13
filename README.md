@@ -1,13 +1,18 @@
 # church-blog1
 
+yarn install
+
 # local
 
 yarn dev
 yarn build && yarn serve
 
-# Add your code to GitHub
+# Add your code to GitHub new repo
 
-yarn install
+- will use Github for auth//integration with netflify
+
+# send to PROD
+
 yarn build
 yarn upgrade
 yarn global add netlify-cli
@@ -21,8 +26,8 @@ netlify login
 netlify init
 -- during this there will ask to deploy
 
-RESOURCES:
-OpenGraph checking tools:
+# RESOURCES:OpenGraph checking tools:
+
 https://www.heymeta.com/
 https://opengraphcheck.com/
 https://cards-dev.twitter.com/validator
@@ -30,11 +35,10 @@ https://developers.facebook.com/tools/debug/sharing
 https://www.linkedin.com/post-inspector/
 Additional resources:
 
-# The Essential Meta Tags for Social Media
+# The Essential Meta Tags for Social Media/ Images help
 
-Example Code for this Blog can be found here:https://codesandbox.io/s/the-localhost-blog-3bn45
+https://css-tricks.com/essential-meta-tags-social-media/
 
-Additional resources:
 https://juliangaramendy.dev/custom-open-graph-images-in-gatsby-blog/
 and the Gatsby docs: https://www.gatsbyjs.org/docs/working-with-images/
 
