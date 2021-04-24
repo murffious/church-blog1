@@ -1,40 +1,37 @@
-# church-blog1
+# [GatsbyJS Material Kit](https://appseed.us/apps/gatsbyjs/gatsby-material-kit-react)
 
-# local
+Open-source app built with GatsbyJS on top of HTML5Up Material Kit design.
 
-yarn dev
-yarn build && yarn serve
+> Originally coded by **[WebCu](https://github.com/WebCu/)**.
 
-# Add your code to GitHub
+<br />
 
-yarn install
-yarn build
-yarn upgrade
-yarn global add netlify-cli
+![GatsbyJS Material Kit - Open-Source GatsbyJS Starter.](https://raw.githubusercontent.com/app-generator/gatsby-material-kit-react/master/media/gatsby-material-kit-react-screen.png)
 
-# authenticate via the CLI
+<br />
 
-netlify login
 
-# initialise the site
+## How to use it
+- Clone this repo `git clone https://github.com/app-generator/gatsby-material-kit-react.git`
+- change directory to `gatsby-material-kit-react`
+- `yarn` - install modules
+- `yarn start` - start for development
+- `yarn build` - build for production
 
-netlify init
+<br />
 
-OpenGraph checking tools:
+## Support
 
-https://www.heymeta.com/
-https://opengraphcheck.com/
-https://cards-dev.twitter.com/validator
-https://developers.facebook.com/tools/debug/sharing
-https://www.linkedin.com/post-inspector/
-Additional resources:
+For Support please access the [Support](https://appseed.us/support) provided by **AppSeed**
 
-The Essential Meta Tags for Social Media
-Example Code for this Blog can be found here:
-Additional resources:
+<br />
 
-this helped me for my own blog: https://juliangaramendy.dev/custom-open-graph-images-in-gatsby-blog/
-and the Gatsby docs: https://www.gatsbyjs.org/docs/working-with-images/
-Creating an SEO component with React Helmet
-There’s a Gatsby github PR https://github.com/gatsbyjs/gatsby/issues/14125 on seo with some great notes from Andrew Welch on SEO and a link to a presentation he did back in 2017.
-https://codesandbox.io/s/the-localhost-blog-3bn45
+## Resources
+ 
+- [GatsbyJS](https://www.gatsbyjs.org/)
+- More [GatsbyJS Apps](https://appseed.us/apps/gatsbyjs)
+
+<br />
+
+---
+[GatsbyJS Material Kit](https://appseed.us/apps/gatsbyjs/gatsby-material-kit-react) provided by **AppSeed**
