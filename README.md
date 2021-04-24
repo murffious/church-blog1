@@ -1,49 +1,37 @@
-# church-blog1
+# [GatsbyJS Material Kit](https://appseed.us/apps/gatsbyjs/gatsby-material-kit-react)
 
-https://demos.creative-tim.com/material-kit-pro-react/?_ga=2.3645170.33502328.1613209042-1227923935.1612851778#/blog-post
+Open-source app built with GatsbyJS on top of HTML5Up Material Kit design.
 
-yarn install
+> Originally coded by **[WebCu](https://github.com/WebCu/)**.
 
-# local
+<br />
 
-yarn dev
-yarn build && yarn serve
+![GatsbyJS Material Kit - Open-Source GatsbyJS Starter.](https://raw.githubusercontent.com/app-generator/gatsby-material-kit-react/master/media/gatsby-material-kit-react-screen.png)
 
-# Add your code to GitHub new repo
+<br />
 
-- will use Github for auth//integration with netflify
 
-# send to PROD
+## How to use it
+- Clone this repo `git clone https://github.com/app-generator/gatsby-material-kit-react.git`
+- change directory to `gatsby-material-kit-react`
+- `yarn` - install modules
+- `yarn start` - start for development
+- `yarn build` - build for production
 
-yarn build
-yarn upgrade
-yarn global add netlify-cli
+<br />
 
-# authenticate via the CLI
+## Support
 
-netlify login
+For Support please access the [Support](https://appseed.us/support) provided by **AppSeed**
 
-# initialise the site
+<br />
 
-netlify init
--- during this there will ask to deploy
+## Resources
+ 
+- [GatsbyJS](https://www.gatsbyjs.org/)
+- More [GatsbyJS Apps](https://appseed.us/apps/gatsbyjs)
 
-# RESOURCES:OpenGraph checking tools:
+<br />
 
-https://www.heymeta.com/
-https://opengraphcheck.com/
-https://cards-dev.twitter.com/validator
-https://developers.facebook.com/tools/debug/sharing
-https://www.linkedin.com/post-inspector/
-Additional resources:
-
-# The Essential Meta Tags for Social Media/ Images help
-
-https://css-tricks.com/essential-meta-tags-social-media/
-
-https://juliangaramendy.dev/custom-open-graph-images-in-gatsby-blog/
-and the Gatsby docs: https://www.gatsbyjs.org/docs/working-with-images/
-
-# Creating an SEO component with React Helmet
-
-There’s a Gatsby github PR https://github.com/gatsbyjs/gatsby/issues/14125 on seo with some great notes from Andrew Welch on SEO and a link to a presentation he did back in 2017, video on YouTube.
+---
+[GatsbyJS Material Kit](https://appseed.us/apps/gatsbyjs/gatsby-material-kit-react) provided by **AppSeed**
