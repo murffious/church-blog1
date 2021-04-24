@@ -1,7 +1,7 @@
 {
   "name": "the-localhost-blog",
   "version": "0.1.0",
-  "description": "",
+  "description": "the-lights-along-the-shore",
   "main": "index.js",
   "scripts": {
     "dev": "gatsby develop -p 9988 -o",
@@ -9,7 +9,7 @@
     "serve": "gatsby serve -p 9500 -o"
   },
   "keywords": [],
-  "author": "",
+  "author": "Paul Morf",
   "license": "ISC",
   "dependencies": {
     "@mdx-js/mdx": "1.4.0",

@@ -1,12 +1,12 @@
 const siteMetadata = {
-  title: `The Localhost Blog`,
+  title: `The Lights Along The Shore Blog`,
   description: `This is my coding blog where I write about my coding journey.`,
   image: `/default-site-image.jpg`,
-  siteUrl: `https://the-localhost-blog.netlify.com`,
-  siteLanguage: `en-GB`,
-  siteLocale: `en_gb`,
-  twitterUsername: `@spences10`,
-  authorName: `Scott Spence`,
+  siteUrl: `https://the-lights-along-the-shore.netlify.app`,
+  siteLanguage: `en-US`,
+  siteLocale: `en_us`,
+  twitterUsername: `@murffious`,
+  authorName: `Paul Murff`,
 }
 
 module.exports = {
